@@ -6,7 +6,7 @@ namespace Interview
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Interview");
+            Console.WriteLine("Interview Time");
             Console.WriteLine();
             
             Console.Write("What is your name: ");
